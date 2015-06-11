@@ -28,6 +28,13 @@ want to check the original projects, here's a list of their sites:
 * [Ionics Isapi Rewrite Filter](http://iirf.codeplex.com/)
 * [Crazy Beavers Imager Resizer and Zip](http://www.crazybeavers.se/downloads/)
 
+
+Support
+------------
+
+https://www.phpfreelanceprogrammer.com/classicaspprogrammer.html
+
+
 Installation
 ------------
 
